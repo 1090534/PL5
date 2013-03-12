@@ -1,3 +1,2 @@
 controlo de versoes
-git
 OpenUP
